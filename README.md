@@ -14,10 +14,8 @@ To encode:
 - cat message.txt | python steganography.py encode
 
 To decode: 
-
-cd src
-
-python steganography.py decode
+- cd src
+- python steganography.py decode
 
 ## Link to post about this project
 - [https://bluecard7.github.io/posts/png_steganography.html](https://bluecard7.github.io/posts/png_steganography.html)
